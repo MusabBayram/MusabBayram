@@ -9,7 +9,6 @@
 - 🌱 I’m currently working React Native, ReactJS, JavaScript.
   
 
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play basketball 🏀 and cycling 🚴‍♀️  
   
 
 <br/>  
