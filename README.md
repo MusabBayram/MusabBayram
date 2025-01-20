@@ -6,7 +6,7 @@
 ### <div align="center">Hi there 👋 I'm Musab</div>  
   
 
-- 🌱 I’m currently learning React Native, JavaScript and Unity&C#  
+- 🌱 I’m currently working React Native, ReactJS, JavaScript.
   
 
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play basketball 🏀 and cycling 🚴‍♀️  
@@ -28,15 +28,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MusabBayram&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 
 ## Recent Blog Posts  
   
